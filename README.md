@@ -1,1 +1,1 @@
-# Predicci-n-inflaci-n-2022
+# Predicción de la inflación en Argentina para el año 2022. 
